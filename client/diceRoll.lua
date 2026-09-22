@@ -1,9 +1,8 @@
 local RSGCore = exports['rsg-core']:GetCoreObject()
 
 local diceHash = 'p_dice01x'
-local dimensionsFace = { X = 0.023142, Y = 0.024278, Z = 0.023156}
 local diceCupHash = 'p_gen_dicecup01x'
-local dicechestHash = "p_chestmedice01x"
+local dimensionsFace = { X = 0.023142, Y = 0.024278, Z = 0.023156}
 
 -- Modelo del dado
 local diceResults = {}

@@ -13,7 +13,7 @@ client_script {
 }
 
 server_script {
-	'server/server.lua',
+	'server/server-dice.lua'
 }
 
 dependencies {
